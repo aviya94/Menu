@@ -1,0 +1,6 @@
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb

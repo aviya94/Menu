@@ -1,0 +1,11 @@
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Aviya\Desktop\shana b simester b\c#\B20 Ex04 MayCarmeli 313296204 AviyaMeidan 205441769\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
